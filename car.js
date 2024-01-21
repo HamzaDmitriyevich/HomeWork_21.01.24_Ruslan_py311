@@ -5,3 +5,5 @@ class car{
 
     }
 }
+let Car = new car('red',100);
+console.log(Car.color);

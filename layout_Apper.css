@@ -41,5 +41,9 @@
     top: 57px;
     border-radius: 10%;
     border-color: black;
+}
 
+#img{
+    width: 186px;
+    height: 100px;
 }

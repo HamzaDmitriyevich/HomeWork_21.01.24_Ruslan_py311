@@ -1,0 +1,45 @@
+#kuzov{
+    height: 120px;
+    width: 300px;
+    background-color: blue;
+    border-radius: 20%;
+    position: relative;
+    left: 80vh;
+    top: 20vw;
+}
+
+#koleso{
+    height: 40px;
+    width: 50px;
+    background-color: black;
+    border: solid;
+    border-color: gray;
+    border-radius: 50%;
+    position: relative;
+    top: 375px;
+    left: 800px;
+}
+#koleso2{
+    height: 40px;
+    width: 50px;
+    background-color: black;
+    border: solid;
+    border-color: gray;
+    border-radius: 50%;
+    position: relative;
+    top: 329px;
+    left: 980px;
+
+}
+#krysha{
+    height: 100px;
+    width: 10%;
+    background-color: aliceblue;
+    border: solid;
+    position: relative;
+    left: 820px;
+    top: 57px;
+    border-radius: 10%;
+    border-color: black;
+
+}
